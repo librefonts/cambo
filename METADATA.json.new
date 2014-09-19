@@ -1,0 +1,32 @@
+{
+  "name": "Cambo",
+  "designer": "Huerta Tipográfica",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 15218,
+  "fonts": [
+    {
+      "name": "Cambo",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Cambo-Regular-TTF.ttf",
+      "postScriptName": "Cambo-Regular",
+      "fullName": "Cambo",
+      "copyright": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\nCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\nwith Reserved Font Name Cambo."
+    },
+    {
+      "name": "Cambo",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Cambo-Regular.ttf",
+      "postScriptName": "Cambo-Regular",
+      "fullName": "Cambo",
+      "copyright": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\rCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\rwith Reserved Font Name Cambo."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-19"
+}
